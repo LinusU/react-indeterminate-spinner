@@ -18,6 +18,7 @@ function IndeterminateSpinner (props) {
     }
 
     var animateProps = {
+      key: '' + idx,
       attributeName: 'opacity',
       from: '1',
       to: '0',
