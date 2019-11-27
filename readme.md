@@ -36,6 +36,9 @@ return (
 
 ### `size`
 
+- optional
+- type: `string`
+
 The size of the spinner. Can be specified as any css-compatible length.
 
 e.g. `'100%'`, `'128px'`, `'1em'`
